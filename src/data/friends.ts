@@ -80,8 +80,8 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 9,
 		title: "ZeoSeven Fonts",
-		imgurl: "https://cores.zeoseven.com/static/icon/zsft/11/main.png",
-		desc: "A website platform collecting various of fonts that can be used freely.",
+		imgurl: "https://avatars.githubusercontent.com/u/189865197?s=200&v=4",
+		desc: "A website platform collecting various of commercial-freely-used fonts.",
 		siteurl: "https://fonts.zeoseven.com/",
 		tags: ["Font", "Platform"],
 	},
@@ -101,3 +101,4 @@ export function getShuffledFriendsList(): FriendItem[] {
 	}
 	return shuffled;
 }
+

@@ -19,20 +19,6 @@ Get started quickly with our comprehensive documentation. Whether you're customi
 
 ![Mizuki Preview](./README.webp)
 
-<table>
-  <tr>
-    <td><img alt="" src="docs/image/1.webp"></td>
-    <td><img alt="" src="docs/image/2.webp"></td>
-    <td><img alt="" src="docs/image/3.webp"></td>
-  <tr>
-  <tr>
-    <td><img alt="" src="docs/image/4.webp"></td>
-    <td><img alt="" src="docs/image/5.webp"></td>
-    <td><img alt="" src="docs/image/6.webp"></td>
-  <tr>
-</table>
-
-
 
 ### 🔧 Component Configuration System Restructuring
 - **Unified Configuration Architecture:** Brand new modular component configuration system, supporting dynamic component management and order configuration
@@ -350,3 +336,4 @@ Thanks to all contributors for their contributions to this project. If you have 
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
